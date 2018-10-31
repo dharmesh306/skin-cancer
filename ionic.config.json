@@ -1,0 +1,7 @@
+{
+  "name": "skin-cancer",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
